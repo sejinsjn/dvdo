@@ -102,7 +102,7 @@
         {"key": "primaryColumns.EditActions1.isDiscardDisabled"}
     ],
     "displayName": "Table",
-    "bottomRow": 48,
+    "bottomRow": 40,
     "columnWidthMap": {},
     "parentRowSpace": 10,
     "hideCard": false,

@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "dataStore",
+    "pageId": "searchPage",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "name",
+        "value": "null"
+      },
+      {
+        "name": "link",
+        "value": "null"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "searchPage_dataStore",
+  "deleted": false,
+  "gitSyncId": "652e4ec1a8be33518bf70842_655335291ed463666a2b1908"
+}

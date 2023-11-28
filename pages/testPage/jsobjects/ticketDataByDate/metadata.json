@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "ticketDataByDate",
+    "pageId": "testPage",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "ticketData",
+        "value": "[{\n  \"id\": 1,\n  \"name\": \"Beantragung Kindergeld\",\n  \"beantragungsdatum\": \"2023-09-01\",\n  \"status\": \"offen\"\n}, {\n  \"id\": 2,\n  \"name\": \"Beantragung Arbeitslosengeld\",\n  \"beantragungsdatum\": \"2023-10-11\",\n  \"status\": \"bei Sachbearbeiter\"\n}, {\n  \"id\": 3,\n  \"name\": \"Änderung Adresse\",\n  \"beantragungsdatum\": \"2022-07-25\",\n  \"status\": \"offen\"\n}]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "testPage_ticketDataByDate",
+  "deleted": false,
+  "gitSyncId": "652e4ec1a8be33518bf70842_6540d8bfead419002166c080"
+}

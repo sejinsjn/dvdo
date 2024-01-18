@@ -5,7 +5,7 @@
     "displayName": "Iframe",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.a84667dbdc548d14f7c83df551151550.svg",
     "searchTags": ["embed"],
-    "topRow": 9,
+    "topRow": 0,
     "bottomRow": 91,
     "parentRowSpace": 10,
     "source": "https://typebot.co/faq-hhnpx78",
@@ -16,7 +16,7 @@
     "animateLoading": true,
     "parentColumnSpace": 17.9375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 4,
+    "leftColumn": 0,
     "dynamicBindingPathList": [
         {"key": "borderRadius"},
         {"key": "boxShadow"}
@@ -25,7 +25,7 @@
     "flexVerticalAlignment": "start",
     "key": "svigxqy4n0",
     "isDeprecated": false,
-    "rightColumn": 61,
+    "rightColumn": 64,
     "widgetId": "594tnh7s5r",
     "isVisible": true,
     "version": 1,

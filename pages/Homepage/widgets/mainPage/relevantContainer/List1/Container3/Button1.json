@@ -11,7 +11,7 @@
         "click",
         "submit"
     ],
-    "topRow": 1,
+    "topRow": 0,
     "bottomRow": 10,
     "parentRowSpace": 10,
     "type": "BUTTON_WIDGET",
@@ -20,7 +20,7 @@
     "animateLoading": true,
     "parentColumnSpace": 7.426264762878418,
     "dynamicTriggerPathList": [{"key": "onClick"}],
-    "leftColumn": 1,
+    "leftColumn": 0,
     "dynamicBindingPathList": [
         {"key": "borderRadius"},
         {"key": "text"}
@@ -29,7 +29,7 @@
     "isDisabled": false,
     "key": "l9hkt0doxk",
     "isDeprecated": false,
-    "rightColumn": 62,
+    "rightColumn": 64,
     "isDefaultClickDisabled": true,
     "dynamicHeight": "FIXED",
     "widgetId": "l7r2uujkjs",

@@ -16,7 +16,7 @@
     "pageId": "Vorgang_Bafoeg",
     "collectionId": "Vorgang_Bafoeg_JSObject1",
     "actionConfiguration": {
-      "timeoutInMillisecond": 10000,
+      "timeoutInMillisecond": 0,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "selfReferencingDataPaths": [],
@@ -35,9 +35,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-01-17T18:18:47Z"
+    "createdAt": "2024-01-18T17:08:25Z"
   },
   "id": "Vorgang_Bafoeg_JSObject1.enableForm",
   "deleted": false,
-  "gitSyncId": "652e4ec1a8be33518bf70842_65a81a07fcfd8f68f5a2db08"
+  "gitSyncId": "652e4ec1a8be33518bf70842_65a95b090efedb7bf575d2a8"
 }

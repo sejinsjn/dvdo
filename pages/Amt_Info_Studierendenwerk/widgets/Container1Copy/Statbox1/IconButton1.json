@@ -10,8 +10,8 @@
         "click",
         "submit"
     ],
-    "topRow": 50,
-    "bottomRow": 54,
+    "topRow": 65,
+    "bottomRow": 69,
     "tooltip": "Studierendenwerk Startseite",
     "type": "ICON_BUTTON_WIDGET",
     "hideCard": false,
@@ -39,9 +39,9 @@
     "isLoading": false,
     "mobileTopRow": 2,
     "responsiveBehavior": "hug",
-    "originalTopRow": 50,
+    "originalTopRow": 52,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 46,
-    "originalBottomRow": 54,
+    "originalBottomRow": 56,
     "buttonVariant": "PRIMARY"
 }

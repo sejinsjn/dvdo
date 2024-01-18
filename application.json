@@ -5,7 +5,7 @@
       "isDefault": false
     },
     {
-      "id": "Amt_Info_KFZ",
+      "id": "Amt_Info_Meldeamt",
       "isDefault": false
     },
     {
@@ -41,6 +41,9 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
     "navigationSetting": {
       "showNavbar": true,
       "orientation": "side",
@@ -56,6 +59,9 @@
   "color": "#FFEFDB",
   "unpublishedAppLayout": {
     "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
   },
   "unpublishedCustomJSLibs": [
     {

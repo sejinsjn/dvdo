@@ -16,7 +16,7 @@
     "pageId": "Vorgang_Bafoeg",
     "collectionId": "Vorgang_Bafoeg_JSObject1",
     "actionConfiguration": {
-      "timeoutInMillisecond": 10000,
+      "timeoutInMillisecond": 0,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "selfReferencingDataPaths": [],
@@ -35,9 +35,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-01-16T12:06:22Z"
+    "createdAt": "2024-01-18T17:23:12Z"
   },
   "id": "Vorgang_Bafoeg_JSObject1.progressbar",
   "deleted": false,
-  "gitSyncId": "652e4ec1a8be33518bf70842_65a6713e88b37e601f7c4d56"
+  "gitSyncId": "652e4ec1a8be33518bf70842_65a95e801dd0ac7aa53c7c85"
 }

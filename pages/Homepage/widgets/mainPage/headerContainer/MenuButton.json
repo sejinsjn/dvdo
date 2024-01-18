@@ -27,7 +27,7 @@
         {"key": "menuItems.menuItem2.onClick"},
         {"key": "menuItems.menuItemdjf2jy8keq.onClick"}
     ],
-    "leftColumn": 1,
+    "leftColumn": 0,
     "dynamicBindingPathList": [
         {"key": "menuColor"},
         {"key": "borderRadius"}
@@ -36,7 +36,7 @@
     "sourceData": "[]",
     "key": "1w2r2p2wur",
     "isDeprecated": false,
-    "rightColumn": 7,
+    "rightColumn": 3,
     "iconName": "menu",
     "menuVariant": "PRIMARY",
     "widgetId": "4gflh6prff",

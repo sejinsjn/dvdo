@@ -4,7 +4,7 @@
     "mobileBottomRow": 5,
     "widgetName": "relevantButton",
     "onClick": "{{navigationObject.navigateToPage(currentItem);}}",
-    "buttonColor": "#ffffff",
+    "buttonColor": "#fef9ef",
     "displayName": "Button",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
     "searchTags": [

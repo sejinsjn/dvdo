@@ -1,10 +1,10 @@
 {
-    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "boxShadow": "none",
     "requiresFlatWidgetChildren": true,
     "isCanvas": true,
     "templateHeight": 160,
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.5c9511142b3624c7491c5442e8ccd0ef.svg",
-    "topRow": 11,
+    "topRow": 17,
     "pageSize": 4,
     "type": "LIST_WIDGET_V2",
     "itemSpacing": "8",
@@ -16,10 +16,9 @@
         {"key": "primaryKeys"},
         {"key": "accentColor"},
         {"key": "borderRadius"},
-        {"key": "boxShadow"},
         {"key": "listData"}
     ],
-    "leftColumn": 2,
+    "leftColumn": 0,
     "enhancements": true,
     "children": [{
         "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
@@ -76,6 +75,7 @@
     "isLoading": false,
     "mainCanvasId": "szhoj0ybqi",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "originalBottomRow": 71,
     "additionalStaticProps": [
         "level",
         "levelData",
@@ -88,7 +88,7 @@
     "widgetName": "List1",
     "listData": "{{FilterPageFunctions.searchData}}",
     "displayName": "List",
-    "bottomRow": 65,
+    "bottomRow": 71,
     "parentRowSpace": 10,
     "hideCard": false,
     "mobileRightColumn": 36,
@@ -101,7 +101,7 @@
     "key": "ehw0rym05v",
     "backgroundColor": "transparent",
     "isDeprecated": false,
-    "rightColumn": 62,
+    "rightColumn": 64,
     "widgetId": "f136vvml4c",
     "minWidth": 450,
     "onItemClick": "{{FilterPageFunctions.onItemClicked(currentItem);}}",
@@ -109,6 +109,7 @@
     "renderMode": "CANVAS",
     "mobileTopRow": 13,
     "responsiveBehavior": "fill",
+    "originalTopRow": 17,
     "mobileLeftColumn": 12,
     "selectedItemView": "{{{}}}"
 }

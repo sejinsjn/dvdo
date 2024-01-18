@@ -4,7 +4,7 @@
     "isCanvas": true,
     "templateHeight": 160,
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.5c9511142b3624c7491c5442e8ccd0ef.svg",
-    "topRow": 6,
+    "topRow": 7,
     "pageSize": 3,
     "type": "LIST_WIDGET_V2",
     "itemSpacing": 8,
@@ -26,7 +26,7 @@
         "widgetName": "Canvas5",
         "displayName": "Canvas",
         "topRow": 0,
-        "bottomRow": 220,
+        "bottomRow": 210,
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": false,
@@ -75,7 +75,7 @@
     "isLoading": false,
     "mainCanvasId": "kdkvu4azy6",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "originalBottomRow": 30,
+    "originalBottomRow": 28,
     "additionalStaticProps": [
         "level",
         "levelData",
@@ -107,7 +107,7 @@
     "renderMode": "CANVAS",
     "mobileTopRow": 57,
     "responsiveBehavior": "fill",
-    "originalTopRow": 8,
+    "originalTopRow": 7,
     "mobileLeftColumn": 0,
     "selectedItemView": "{{{}}}"
 }

@@ -20,6 +20,7 @@
     "mobileRightColumn": 26,
     "animateLoading": true,
     "parentColumnSpace": 12.16796875,
+    "dynamicTriggerPathList": [],
     "leftColumn": 0,
     "dynamicBindingPathList": [
         {"key": "borderRadius"},
@@ -71,7 +72,7 @@
     "backgroundColor": "#FFFFFF",
     "isDeprecated": false,
     "rightColumn": 12,
-    "dynamicHeight": "AUTO_HEIGHT",
+    "dynamicHeight": "FIXED",
     "widgetId": "8068i7kza4",
     "containerStyle": "card",
     "minWidth": 450,
@@ -83,10 +84,8 @@
     "isLoading": false,
     "mobileTopRow": 48,
     "responsiveBehavior": "fill",
-    "originalTopRow": 1,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 2,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 13,
     "minDynamicHeight": 10
 }

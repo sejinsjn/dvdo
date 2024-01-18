@@ -1,5 +1,5 @@
 {
-    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "boxShadow": "none",
     "mobileBottomRow": 36,
     "widgetName": "Iframe1",
     "displayName": "Iframe",
@@ -17,11 +17,8 @@
     "parentColumnSpace": 12.625,
     "dynamicTriggerPathList": [],
     "leftColumn": 0,
-    "dynamicBindingPathList": [
-        {"key": "borderRadius"},
-        {"key": "boxShadow"}
-    ],
-    "borderWidth": 1,
+    "dynamicBindingPathList": [{"key": "borderRadius"}],
+    "borderWidth": "0",
     "flexVerticalAlignment": "start",
     "key": "xginjh4g6d",
     "isDeprecated": false,

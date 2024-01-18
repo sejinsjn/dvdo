@@ -2,10 +2,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 4,
     "widgetName": "Text1CopyCopy",
-    "dynamicPropertyPathList": [
-        {"key": "fontSize"},
-        {"key": "fontStyle"}
-    ],
+    "dynamicPropertyPathList": [{"key": "fontSize"}],
     "displayName": "Text",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.a47d6d5dbbb718c4dc4b2eb4f218c1b7.svg",
     "searchTags": [
@@ -26,8 +23,7 @@
         {"key": "text"},
         {"key": "truncateButtonColor"},
         {"key": "borderRadius"},
-        {"key": "text"},
-        {"key": "fontStyle"}
+        {"key": "text"}
     ],
     "leftColumn": 55,
     "shouldTruncate": false,
@@ -41,8 +37,8 @@
     "widgetId": "u0y85wol2n",
     "minWidth": 450,
     "isVisible": true,
-    "fontStyle": "{{}}/",
-    "textColor": "#79719a",
+    "fontStyle": "",
+    "textColor": "#615b7c",
     "version": 1,
     "parentId": "gwqrcxkpgd",
     "tags": [
@@ -56,7 +52,7 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 16,
     "maxDynamicHeight": 9000,
-    "fontSize": "0.8rem",
+    "fontSize": "0.9rem",
     "textStyle": "HEADING",
     "minDynamicHeight": 4
 }

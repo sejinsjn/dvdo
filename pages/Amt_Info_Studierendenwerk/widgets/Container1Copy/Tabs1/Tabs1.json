@@ -1,13 +1,13 @@
 {
-    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "boxShadow": "none",
     "mobileBottomRow": 59,
     "widgetName": "Tabs1",
-    "borderColor": "#E0DEDE",
+    "borderColor": "#925a12",
     "isCanvas": true,
     "displayName": "Tabs",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.9e3d67c0af9c0bd092dc56240314e18a.svg",
-    "topRow": 86,
-    "bottomRow": 103,
+    "topRow": 60,
+    "bottomRow": 87,
     "parentRowSpace": 10,
     "type": "TABS_WIDGET",
     "hideCard": false,
@@ -19,8 +19,7 @@
     "leftColumn": 0,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
-        {"key": "borderRadius"},
-        {"key": "boxShadow"}
+        {"key": "borderRadius"}
     ],
     "children": [
         {
@@ -29,7 +28,7 @@
             "mobileBottomRow": 150,
             "widgetName": "Canvas4",
             "displayName": "Canvas",
-            "bottomRow": 210,
+            "bottomRow": 230,
             "topRow": 0,
             "parentRowSpace": 1,
             "type": "CANVAS_WIDGET",
@@ -73,7 +72,7 @@
             "mobileBottomRow": 150,
             "widgetName": "Canvas5",
             "displayName": "Canvas",
-            "bottomRow": 130,
+            "bottomRow": 230,
             "topRow": 0,
             "parentRowSpace": 1,
             "type": "CANVAS_WIDGET",
@@ -112,13 +111,13 @@
             "flexLayers": []
         }
     ],
-    "borderWidth": 1,
+    "borderWidth": "0",
     "flexVerticalAlignment": "stretch",
     "key": "6cm6uzvn9f",
     "backgroundColor": "#FFFFFF",
     "isDeprecated": false,
     "rightColumn": 64,
-    "dynamicHeight": "AUTO_HEIGHT_WITH_LIMITS",
+    "dynamicHeight": "FIXED",
     "widgetId": "r47gqqx61e",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
     "defaultTab": "Dokumente (PDF)",
@@ -150,10 +149,10 @@
     "isLoading": false,
     "mobileTopRow": 44,
     "responsiveBehavior": "fill",
-    "originalTopRow": 86,
+    "originalTopRow": 60,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 31,
     "maxDynamicHeight": 17,
-    "originalBottomRow": 103,
+    "originalBottomRow": 87,
     "minDynamicHeight": 14
 }

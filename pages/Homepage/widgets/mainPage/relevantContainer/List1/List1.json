@@ -15,10 +15,9 @@
         {"key": "triggeredItemView"},
         {"key": "primaryKeys"},
         {"key": "accentColor"},
-        {"key": "borderRadius"},
         {"key": "listData"}
     ],
-    "leftColumn": 1,
+    "leftColumn": 0,
     "enhancements": true,
     "children": [{
         "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
@@ -74,7 +73,7 @@
     "hasMetaWidgets": true,
     "isLoading": false,
     "mainCanvasId": "1kltj2ct7c",
-    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "borderRadius": "0.375rem",
     "originalBottomRow": 22,
     "additionalStaticProps": [
         "level",

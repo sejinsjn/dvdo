@@ -1,13 +1,13 @@
 {
-    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "boxShadow": "none",
     "mobileBottomRow": 59,
     "widgetName": "Tabs1",
     "borderColor": "#E0DEDE",
     "isCanvas": true,
     "displayName": "Tabs",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.9e3d67c0af9c0bd092dc56240314e18a.svg",
-    "topRow": 72,
-    "bottomRow": 91,
+    "topRow": 69,
+    "bottomRow": 88,
     "parentRowSpace": 10,
     "type": "TABS_WIDGET",
     "hideCard": false,
@@ -19,8 +19,7 @@
     "leftColumn": 0,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
-        {"key": "borderRadius"},
-        {"key": "boxShadow"}
+        {"key": "borderRadius"}
     ],
     "children": [
         {
@@ -112,13 +111,13 @@
             "flexLayers": []
         }
     ],
-    "borderWidth": 1,
+    "borderWidth": "0",
     "flexVerticalAlignment": "stretch",
     "key": "6cm6uzvn9f",
     "backgroundColor": "#FFFFFF",
     "isDeprecated": false,
     "rightColumn": 64,
-    "dynamicHeight": "AUTO_HEIGHT",
+    "dynamicHeight": "FIXED",
     "widgetId": "r47gqqx61e",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
     "defaultTab": "Dokumente",
@@ -150,10 +149,10 @@
     "isLoading": false,
     "mobileTopRow": 44,
     "responsiveBehavior": "fill",
-    "originalTopRow": 72,
+    "originalTopRow": 69,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 31,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 92,
+    "originalBottomRow": 88,
     "minDynamicHeight": 15
 }

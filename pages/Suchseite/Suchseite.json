@@ -1,0 +1,75 @@
+{
+  "unpublishedPage": {
+    "name": "Suchseite",
+    "slug": "suchseite",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 650,
+          "containerStyle": "none",
+          "snapRows": 75,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 87,
+          "minHeight": 770,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0
+        },
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "Suchseite_CoreData",
+              "name": "CoreData",
+              "confirmBeforeExecute": false,
+              "pluginType": "SAAS",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Suchseite_Find_DataLabels2",
+              "name": "Find_DataLabels2",
+              "confirmBeforeExecute": false,
+              "pluginType": "SAAS",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            }
+          ],
+          [
+            {
+              "id": "Suchseite_FilterPageFunctions.initUpdateSearchResults",
+              "name": "FilterPageFunctions.initUpdateSearchResults",
+              "collectionId": "Suchseite_FilterPageFunctions",
+              "confirmBeforeExecute": false,
+              "pluginType": "JS",
+              "jsonPathKeys": [
+                "async function () {\n  while (!CoreData.data) {\n    showAlert(\"Retry\");\n    await setTimeout(() => {}, 2000);\n  }\n  FilterPageFunctions.updateSearchResults();\n}"
+              ],
+              "timeoutInMillisecond": 10000
+            }
+          ]
+        ],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "Suchseite",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": [],
+    "isHidden": false
+  },
+  "deleted": false,
+  "gitSyncId": "652e4ec1a8be33518bf70842_65659eb9ff59e53544c35674"
+}

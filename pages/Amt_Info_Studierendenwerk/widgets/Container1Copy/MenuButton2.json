@@ -1,0 +1,77 @@
+{
+    "isCompact": false,
+    "boxShadow": "none",
+    "mobileBottomRow": 4,
+    "widgetName": "MenuButton2",
+    "configureMenuItems": {
+        "label": "Configure menu items",
+        "id": "config",
+        "config": {
+            "id": "config",
+            "label": "Menu Item",
+            "isVisible": true,
+            "isDisabled": false
+        }
+    },
+    "displayName": "Menu button",
+    "iconSVG": "https://appcdn.appsmith.com/static/media/icon.631848e88e7a3db05f6015f22835e81b.svg",
+    "topRow": 0,
+    "bottomRow": 4,
+    "parentRowSpace": 10,
+    "type": "MENU_BUTTON_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 64,
+    "animateLoading": true,
+    "parentColumnSpace": 13.78125,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 60,
+    "dynamicBindingPathList": [{"key": "borderRadius"}],
+    "isDisabled": false,
+    "sourceData": [],
+    "key": "s16ilv0gxi",
+    "isDeprecated": false,
+    "rightColumn": 64,
+    "iconName": "user",
+    "menuVariant": "PRIMARY",
+    "widgetId": "ctdiwty7lh",
+    "menuItems": {
+        "menuItem1": {
+            "widgetId": "",
+            "index": 0,
+            "label": "Account",
+            "id": "menuItem1",
+            "isVisible": true,
+            "isDisabled": false
+        },
+        "menuItem3": {
+            "widgetId": "",
+            "index": 2,
+            "label": "Logout",
+            "id": "menuItem3",
+            "isVisible": true,
+            "isDisabled": false
+        },
+        "menuItem2": {
+            "widgetId": "",
+            "index": 1,
+            "label": "Settings",
+            "id": "menuItem2",
+            "isVisible": true,
+            "isDisabled": false
+        }
+    },
+    "isVisible": true,
+    "label": "\n",
+    "version": 1,
+    "parentId": "4zseysuz9j",
+    "tags": ["Buttons"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 0,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 49,
+    "menuItemsSource": "STATIC",
+    "menuColor": "",
+    "iconAlign": "left",
+    "placement": "CENTER"
+}

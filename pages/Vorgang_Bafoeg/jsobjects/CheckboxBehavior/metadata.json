@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "CheckboxBehavior",
+    "pageId": "Vorgang_Bafoeg",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Vorgang_Bafoeg_CheckboxBehavior",
+  "deleted": false,
+  "gitSyncId": "652e4ec1a8be33518bf70842_65a3d5179ecc7448a333dfb2"
+}

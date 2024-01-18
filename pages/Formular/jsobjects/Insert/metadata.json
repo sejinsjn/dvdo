@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "Insert",
+    "pageId": "Formular",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Formular_Insert",
+  "deleted": false,
+  "gitSyncId": "652e4ec1a8be33518bf70842_659cfef681d7770d5c3645ee"
+}

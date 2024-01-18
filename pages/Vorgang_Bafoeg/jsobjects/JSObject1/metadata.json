@@ -1,0 +1,36 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Vorgang_Bafoeg",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "currentForm",
+        "value": "0"
+      },
+      {
+        "name": "enabled",
+        "value": "false"
+      },
+      {
+        "name": "rowIndex",
+        "value": "0"
+      },
+      {
+        "name": "numSteps",
+        "value": "5"
+      },
+      {
+        "name": "formArray",
+        "value": "[\"Form1\", \"Form2\", \"End\", \"Form3\", \"Form4\", \"Form5\"]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Vorgang_Bafoeg_JSObject1",
+  "deleted": false,
+  "gitSyncId": "652e4ec1a8be33518bf70842_65a2b40f79e028469badbe34"
+}

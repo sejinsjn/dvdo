@@ -1,0 +1,62 @@
+{
+    "mobileBottomRow": 40,
+    "widgetName": "Haushalt2k04",
+    "dynamicPropertyPathList": [{"key": "isDisabled"}],
+    "displayName": "Checkbox Group",
+    "iconSVG": "https://appcdn.appsmith.com/static/media/icon.9522c5e7f896ce165fcd1dbba438daff.svg",
+    "labelText": "wohnt in meinem Haushalt",
+    "topRow": 44,
+    "bottomRow": 51,
+    "parentRowSpace": 10,
+    "labelWidth": 5,
+    "type": "CHECKBOX_GROUP_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 58,
+    "animateLoading": true,
+    "parentColumnSpace": 18.682861328125,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 46,
+    "dynamicBindingPathList": [
+        {"key": "accentColor"},
+        {"key": "borderRadius"},
+        {"key": "isDisabled"},
+        {"key": "defaultSelectedValues"}
+    ],
+    "labelPosition": "Top",
+    "options": [
+        {
+            "label": "Ja",
+            "value": "YES"
+        },
+        {
+            "label": "Nein",
+            "value": "NO"
+        }
+    ],
+    "isDisabled": "{{JSObject1.enabled}}",
+    "flexVerticalAlignment": "start",
+    "key": "1lkkuwbh6z",
+    "labelTextSize": "0.875rem",
+    "isRequired": false,
+    "isDeprecated": false,
+    "rightColumn": 61,
+    "defaultSelectedValues": "{{GetFormData.data[3][\"Feld 17\"]}}",
+    "dynamicHeight": "AUTO_HEIGHT",
+    "widgetId": "ivtohyjcyz",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "isVisible": true,
+    "version": 2,
+    "parentId": "6ttfrkfztx",
+    "tags": ["Toggles"],
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 34,
+    "originalTopRow": 44,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 35,
+    "maxDynamicHeight": 9000,
+    "originalBottomRow": 51,
+    "isInline": true,
+    "minDynamicHeight": 4
+}

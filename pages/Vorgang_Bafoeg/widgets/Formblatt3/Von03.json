@@ -1,0 +1,63 @@
+{
+    "mobileBottomRow": 7,
+    "widgetName": "Von03",
+    "dynamicPropertyPathList": [],
+    "iconSVG": "https://appcdn.appsmith.com/static/media/icon.9522c5e7f896ce165fcd1dbba438daff.svg",
+    "displayName": "Checkbox Group",
+    "labelText": "",
+    "topRow": 1,
+    "bottomRow": 5,
+    "parentRowSpace": 10,
+    "labelWidth": 5,
+    "type": "CHECKBOX_GROUP_WIDGET",
+    "isSelectAll": false,
+    "hideCard": false,
+    "mobileRightColumn": 48,
+    "animateLoading": true,
+    "parentColumnSpace": 18.984375,
+    "dynamicTriggerPathList": [{"key": "onSelectionChange"}],
+    "leftColumn": 25,
+    "dynamicBindingPathList": [
+        {"key": "accentColor"},
+        {"key": "borderRadius"},
+        {"key": "defaultSelectedValues"}
+    ],
+    "labelPosition": "Top",
+    "onSelectionChange": "{{CheckboxBehavior.changeVonCheckboxValue();}}",
+    "options": [
+        {
+            "label": "von Ehegatten / eingetragenen Lebenspartnern",
+            "value": "Ehegatten"
+        },
+        {
+            "label": "von Eltern",
+            "value": "Eltern"
+        }
+    ],
+    "isDisabled": false,
+    "flexVerticalAlignment": "start",
+    "key": "fhwl3utjo5",
+    "labelTextSize": "0.875rem",
+    "isRequired": true,
+    "isDeprecated": false,
+    "rightColumn": 50,
+    "defaultSelectedValues": "{{GetFormData.data[1][\"Feld 1\"]}}",
+    "dynamicHeight": "AUTO_HEIGHT",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "widgetId": "yyvbxnreiy",
+    "isVisible": true,
+    "version": 2,
+    "parentId": "0jkoa0eu3e",
+    "tags": ["Toggles"],
+    "isLoading": false,
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "mobileTopRow": 1,
+    "originalTopRow": 1,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 25,
+    "maxDynamicHeight": 9000,
+    "originalBottomRow": 5,
+    "isInline": true,
+    "minDynamicHeight": 4
+}

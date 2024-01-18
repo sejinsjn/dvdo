@@ -1,0 +1,66 @@
+{
+    "mobileBottomRow": 85,
+    "widgetName": "KinderBetreuung04",
+    "dynamicPropertyPathList": [{"key": "isDisabled"}],
+    "displayName": "Checkbox Group",
+    "iconSVG": "https://appcdn.appsmith.com/static/media/icon.9522c5e7f896ce165fcd1dbba438daff.svg",
+    "labelText": "Ein Kinderbetreuungszuschlag nach § 14b BAföG soll mir gewährt werden für",
+    "topRow": 82,
+    "bottomRow": 89,
+    "parentRowSpace": 10,
+    "labelWidth": 5,
+    "type": "CHECKBOX_GROUP_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 24,
+    "animateLoading": true,
+    "parentColumnSpace": 18.682861328125,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 1,
+    "dynamicBindingPathList": [
+        {"key": "accentColor"},
+        {"key": "borderRadius"},
+        {"key": "isDisabled"},
+        {"key": "defaultSelectedValues"}
+    ],
+    "labelPosition": "Top",
+    "options": [
+        {
+            "label": "das 1. Kind",
+            "value": "FIRST_CHILD"
+        },
+        {
+            "label": "das 2. Kind",
+            "value": "SECOND_CHILD"
+        },
+        {
+            "label": "das 3. Kind",
+            "value": "THIRD_CHILD"
+        }
+    ],
+    "isDisabled": "{{JSObject1.enabled}}",
+    "flexVerticalAlignment": "start",
+    "key": "khe66ro2yf",
+    "labelTextSize": "0.875rem",
+    "isRequired": false,
+    "isDeprecated": false,
+    "rightColumn": 31,
+    "defaultSelectedValues": "{{GetFormData.data[3][\"Feld 30\"]}}",
+    "dynamicHeight": "AUTO_HEIGHT",
+    "widgetId": "g4skxn0zlz",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "isVisible": true,
+    "version": 2,
+    "parentId": "6ttfrkfztx",
+    "tags": ["Toggles"],
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 79,
+    "originalTopRow": 82,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 1,
+    "maxDynamicHeight": 9000,
+    "originalBottomRow": 89,
+    "isInline": true,
+    "minDynamicHeight": 4
+}

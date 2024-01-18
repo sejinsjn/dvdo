@@ -1,0 +1,71 @@
+{
+    "mobileBottomRow": 7,
+    "widgetName": "Erwerbstatig03",
+    "dynamicPropertyPathList": [],
+    "iconSVG": "https://appcdn.appsmith.com/static/media/icon.9522c5e7f896ce165fcd1dbba438daff.svg",
+    "displayName": "Checkbox Group",
+    "labelText": "Erwerbstätig als",
+    "topRow": 47,
+    "bottomRow": 54,
+    "parentRowSpace": 10,
+    "labelWidth": 5,
+    "type": "CHECKBOX_GROUP_WIDGET",
+    "isSelectAll": false,
+    "hideCard": false,
+    "mobileRightColumn": 48,
+    "animateLoading": true,
+    "parentColumnSpace": 18.984375,
+    "dynamicTriggerPathList": [{"key": "onSelectionChange"}],
+    "leftColumn": 1,
+    "dynamicBindingPathList": [
+        {"key": "accentColor"},
+        {"key": "borderRadius"},
+        {"key": "defaultSelectedValues"}
+    ],
+    "labelPosition": "Top",
+    "onSelectionChange": "{{CheckboxBehavior.changeErwerbCheckboxValue();}}",
+    "options": [
+        {
+            "label": "Arbeite / Arbeiter",
+            "value": "Arbeiter"
+        },
+        {
+            "label": "Angestellte / Angestellter",
+            "value": "Angestellter"
+        },
+        {
+            "label": "Beamtin / Beamter",
+            "value": "Beamter"
+        },
+        {
+            "label": "Selbstständige / Selbstständiger",
+            "value": "Selbstständiger"
+        }
+    ],
+    "isDisabled": false,
+    "flexVerticalAlignment": "start",
+    "key": "fhwl3utjo5",
+    "labelTextSize": "0.875rem",
+    "isRequired": true,
+    "isDeprecated": false,
+    "rightColumn": 61,
+    "defaultSelectedValues": "{{GetFormData.data[1][\"Feld 15\"]}}",
+    "dynamicHeight": "AUTO_HEIGHT",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "widgetId": "omtq09lgso",
+    "isVisible": true,
+    "version": 2,
+    "parentId": "0jkoa0eu3e",
+    "tags": ["Toggles"],
+    "isLoading": false,
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "mobileTopRow": 1,
+    "originalTopRow": 47,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 25,
+    "maxDynamicHeight": 9000,
+    "originalBottomRow": 54,
+    "isInline": true,
+    "minDynamicHeight": 4
+}

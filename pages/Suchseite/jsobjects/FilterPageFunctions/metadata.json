@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "FilterPageFunctions",
+    "pageId": "Suchseite",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "searchData",
+        "value": "[]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Suchseite_FilterPageFunctions",
+  "deleted": false,
+  "gitSyncId": "652e4ec1a8be33518bf70842_657818ec3a99105ab3bbff0d"
+}

@@ -16,7 +16,7 @@
     "pageId": "Vorgang_Bafoeg",
     "collectionId": "Vorgang_Bafoeg_FormularFunctions",
     "actionConfiguration": {
-      "timeoutInMillisecond": 0,
+      "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "selfReferencingDataPaths": [],

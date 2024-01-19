@@ -31,6 +31,10 @@
     {
       "id": "Amt_Info_Studierendenwerk",
       "isDefault": false
+    },
+    {
+      "id": "Dokumentenanzeige",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -41,7 +45,7 @@
       "type": "FIXED"
     },
     "navigationSetting": {
-      "showNavbar": true,
+      "showNavbar": false,
       "orientation": "side",
       "navStyle": "sidebar",
       "position": "static",

@@ -1,6 +1,6 @@
 {
   "unpublishedCollection": {
-    "name": "JSObject1",
+    "name": "FormularFunctions",
     "pageId": "Vorgang_Bafoeg",
     "pluginId": "js-plugin",
     "pluginType": "JS",
@@ -30,7 +30,7 @@
     ],
     "userPermissions": []
   },
-  "id": "Vorgang_Bafoeg_JSObject1",
+  "id": "Vorgang_Bafoeg_FormularFunctions",
   "deleted": false,
-  "gitSyncId": "652e4ec1a8be33518bf70842_65a2b40f79e028469badbe34"
+  "gitSyncId": "652e4ec1a8be33518bf70842_65a9891a878a8874129817a8"
 }

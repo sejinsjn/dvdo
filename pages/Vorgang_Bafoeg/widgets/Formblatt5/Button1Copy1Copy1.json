@@ -1,9 +1,9 @@
 {
-    "resetFormOnClick": true,
+    "resetFormOnClick": false,
     "boxShadow": "none",
     "mobileBottomRow": 37,
     "widgetName": "Button1Copy1Copy1",
-    "onClick": "{{UpdateFormblatt5Data.run().then(() => {\n  JSObject1.progressbar();\n});\nGetFormData.run();}}",
+    "onClick": "{{UpdateFormblatt5Data.run().then(() => {\n  FormularFunctions.progressbar();\n});\nGetFormData.run().then(() => {\n  FormularFunctions.updateStatusForm5();\n});}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Button",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",

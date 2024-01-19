@@ -14,16 +14,15 @@
       "userPermissions": []
     },
     "pageId": "Vorgang_Bafoeg",
-    "collectionId": "Vorgang_Bafoeg_JSObject1",
+    "collectionId": "Vorgang_Bafoeg_FormularFunctions",
     "actionConfiguration": {
-      "timeoutInMillisecond": 10000,
+      "timeoutInMillisecond": 0,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "selfReferencingDataPaths": [],
       "jsArguments": []
     },
     "executeOnLoad": false,
-    "clientSideExecution": true,
     "dynamicBindingPathList": [
       {
         "key": "body"
@@ -36,9 +35,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-01-13T16:02:23Z"
+    "createdAt": "2024-01-18T20:25:36Z"
   },
   "id": "Vorgang_Bafoeg_JSObject1.myFun1",
   "deleted": false,
-  "gitSyncId": "652e4ec1a8be33518bf70842_65a2b40f79e028469badbe30"
+  "gitSyncId": "652e4ec1a8be33518bf70842_65a98940fc34c0678e3431c5"
 }

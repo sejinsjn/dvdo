@@ -33,7 +33,7 @@
             "value": "NO"
         }
     ],
-    "isDisabled": "{{JSObject1.enabled}}",
+    "isDisabled": "{{FormularFunctions.enabled}}",
     "flexVerticalAlignment": "start",
     "key": "1lkkuwbh6z",
     "labelTextSize": "0.875rem",

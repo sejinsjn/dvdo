@@ -37,7 +37,7 @@
             "value": "THIRD_CHILD"
         }
     ],
-    "isDisabled": "{{JSObject1.enabled}}",
+    "isDisabled": "{{FormularFunctions.enabled}}",
     "flexVerticalAlignment": "start",
     "key": "khe66ro2yf",
     "labelTextSize": "0.875rem",

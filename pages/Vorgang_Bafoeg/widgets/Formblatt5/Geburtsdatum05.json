@@ -13,7 +13,7 @@
         {"key": "isDisabled"},
         {"key": "defaultDate"}
     ],
-    "isDisabled": "{{JSObject1.enabled}}",
+    "isDisabled": "{{FormularFunctions.enabled}}",
     "isRequired": false,
     "dynamicHeight": "FIXED",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",

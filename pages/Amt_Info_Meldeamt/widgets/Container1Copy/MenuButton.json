@@ -52,7 +52,7 @@
             "isVisible": true
         },
         "menuItem2": {
-            "onClick": "{{navigateTo('searchPage', {}, 'SAME_WINDOW');}}",
+            "onClick": "{{navigateTo('Suchseite', {}, 'SAME_WINDOW');}}",
             "widgetId": "",
             "index": 1,
             "label": "Suche",

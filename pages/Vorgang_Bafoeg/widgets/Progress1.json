@@ -29,7 +29,7 @@
     "counterClosewise": false,
     "widgetId": "bpbfpkd57w",
     "isVisible": true,
-    "steps": "{{JSObject1.numSteps}}",
+    "steps": "{{FormularFunctions.numSteps}}",
     "version": 1,
     "parentId": "0",
     "tags": ["Content"],

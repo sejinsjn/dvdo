@@ -15,7 +15,7 @@
     ],
     "labelStyle": "",
     "inputType": "TEXT",
-    "isDisabled": "{{JSObject1.enabled}}",
+    "isDisabled": "{{FormularFunctions.enabled}}",
     "isRequired": false,
     "dynamicHeight": "AUTO_HEIGHT",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",

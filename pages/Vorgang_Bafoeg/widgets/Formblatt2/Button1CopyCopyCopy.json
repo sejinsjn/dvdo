@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 37,
     "widgetName": "Button1CopyCopyCopy",
-    "onClick": "{{JSObject1.back();\nGetFormData.run();}}",
+    "onClick": "{{FormularFunctions.back();\nGetFormData.run();}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Button",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",

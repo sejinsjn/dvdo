@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Dokumentenanzeige",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Dokumentenanzeige_JSObject1",
+  "deleted": false,
+  "gitSyncId": "652e4ec1a8be33518bf70842_65a9846443da59142cb00921"
+}
